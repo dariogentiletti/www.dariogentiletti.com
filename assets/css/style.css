@@ -347,7 +347,7 @@ hr {
     text-decoration: none;
     font-family: 'IBM Plex Sans', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-size: 15px;
-    margin-left: -3px;
+    margin-left: 0;
 }
 
 .link-to-notes a:hover {

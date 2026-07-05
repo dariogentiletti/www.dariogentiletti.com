@@ -368,7 +368,7 @@ hr {
     padding-left: 15px;
 }
 
-.home, .categories, .rss, .projects {
+.home, .categories, .rss, .projects, .notes {
     padding-left: 5px;
     padding-right: 10px;
     padding-top: 5px;
@@ -385,11 +385,11 @@ hr {
     padding-right: 20px;
 }
 
-.home {
+.home, .notes {
     padding-right: 14px;
 }
 
-.home-p, .categories-p, .rss-p, .projects-p {
+.home-p, .categories-p, .rss-p, .projects-p, .notes-p {
    margin-top: auto;
    margin-left: auto;
    text-align: center;
@@ -399,7 +399,7 @@ hr {
    color: #555555; 
 }
 
-.icon-home, .icon-category, .icon-projects, .icon-rss {
+.icon-home, .icon-category, .icon-projects, .icon-rss, .icon-notes {
     margin-top: 7px;
     justify-content: center;
     stroke: #555555;
@@ -407,6 +407,10 @@ hr {
 
 
 .icon-home {
+    margin-left: 21%;
+}
+
+.icon-notes {
     margin-left: 21%;
 }
 
